@@ -1,1 +1,1 @@
-# Truck-delievery
+This project was a SPA done for a Truck-delievery app.
